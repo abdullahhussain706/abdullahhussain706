@@ -42,12 +42,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahhussain706&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahhussain706&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahhussain706&layout=compact&theme=tokyonight" />
 </p>
 
-<!-- 📊 Animated Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdullahhussain706&theme=react-dark&area=true&hide_border=true" />
-</p>
+
+
+
 
 ---
 
